@@ -1,0 +1,19 @@
+{
+    "timeData": [
+      {
+        "timeZone": "Africa/Nairobi",
+        "currentTime": "12:34:56 PM"
+      },
+      {
+        "timeZone": "America/New_York",
+        "currentTime": "08:45:30 AM"
+      },
+      {
+        "timeZone": "Asia/Tokyo",
+        "currentTime": "09:20:15 PM"
+      }
+    
+    ]
+  }
+  
+  
